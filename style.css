@@ -18,6 +18,9 @@ a:hover {
     font-family: sans-serif;
 
 }
+.btn{
+    background-color: #1013d6;
+}
 
 .btn:focus, .btn:active, .btn:visited {
     outline: none !important;
