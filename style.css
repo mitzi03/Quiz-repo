@@ -1,0 +1,49 @@
+body {
+    background-color: #a1d2de9d; 
+}
+
+h1, 
+h2 {
+    color: #596b86;
+    font-family: sans-serif;
+}
+
+a {
+    color: #1013d6;
+    font-family: sans-serif;
+}
+
+a:hover {
+    color: #15a6c6;
+    font-family: sans-serif;
+
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #343a40;
+}
+
+#finalScore {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family:sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#questionTitle {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #30343b;
+}
